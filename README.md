@@ -14,9 +14,8 @@
 <img src="https://github.com/JakobEik/github-stats/blob/master/generated/languages.svg"/>
 </p>
 
-<p align="center-left">The API obviously shows the wrong amount of lines edited, but will correct itself with time</p>
-
-
 <p align="center">  
 <img src="https://github-readme-stats.vercel.app/api?username=JakobEik&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
+
+<p align="center">The API obviously shows the wrong amount of lines edited, but will correct itself with time</p>
