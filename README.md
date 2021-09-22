@@ -7,10 +7,11 @@
 <p align="center-left">- 📫 How to reach me: jakeik@hotmail.com</p>
 
   
-<p href="https://github.com/JakobEik/github-stats">
+<p align="center" href="https://github.com/JakobEik/github-stats">
 
 ![](https://github.com/JakobEik/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/JakobEik/github-stats/blob/master/generated/languages.svg)
+  
 <img src="https://github.com/JakobEik/github-stats/blob/master/generated/overview.svg"/>
 <img src="https://github.com/JakobEik/github-stats/blob/master/generated/languages.svg"/>
 
