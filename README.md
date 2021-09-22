@@ -1,5 +1,5 @@
 # <p align="center">Jakob Eikeland</p>
-### <p align="center">MSc Engineering and ICT at NTNU, 4th year | Mechanical engineering, automation and robotics
+### <p align="center">MSc Engineering and ICT at NTNU, 4th year | Mechanical engineering | Automation and robotics 
 
 
 
