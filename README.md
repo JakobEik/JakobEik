@@ -1,4 +1,4 @@
-## <p align="center">MSc Engineering and ICT at NTNU, 4th year | Mechanical engineering | Automation and robotics</p>
+### <p align="center">MSc Engineering and ICT at NTNU, 4th year | Mechanical engineering | Automation and robotics</p>
 
 <p align="center">
 
