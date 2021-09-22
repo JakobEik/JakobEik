@@ -1,7 +1,7 @@
 # <p align="center">Jakob Eikeland</p>
 ### <p align="center">MSc Engineering and ICT at NTNU, 4rd year | Mechanical engineering</p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 
 - 🔭 I’m currently working on an autonomous robot
 - 🌱 I’m currently learning AI
