@@ -1,11 +1,11 @@
 ### <p align="center">MSc Engineering and ICT at NTNU, 4th year | Mechanical engineering | Automation and robotics</p>
 
-<p text-align="center">
 
-- 🔭 I’m currently working on an autonomous robot
+
+<p align="center">- 🔭 I’m currently working on an autonomous robot</p>
 - 🌱 I’m currently learning AI
 - 📫 How to reach me: jakeik@hotmail.com
-</p>
+
   
 <a href="https://github.com/JakobEik/github-stats">
 
