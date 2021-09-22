@@ -10,7 +10,7 @@
 <p align="center">  
 <img width="33%" src="https://github.com/JakobEik/github-stats/blob/master/generated/overview.svg"/>
 <img width="33%" src="https://github.com/JakobEik/github-stats/blob/master/generated/languages.svg"/>
-<img width="33%" height="120%" height="180em" src="https://github-readme-stats.vercel.app/api?username=JakobEik&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img width="33%" height="120%" src="https://github-readme-stats.vercel.app/api?username=JakobEik&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
 
 
