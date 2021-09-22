@@ -2,9 +2,9 @@
 
 
 
-<p align="center">- 🔭 I’m currently working on an autonomous robot</p>
+<p align="center">- 🔭 I’m currently working on an autonomous robot
 - 🌱 I’m currently learning AI
-- 📫 How to reach me: jakeik@hotmail.com
+- 📫 How to reach me: jakeik@hotmail.com</p>
 
   
 <a href="https://github.com/JakobEik/github-stats">
