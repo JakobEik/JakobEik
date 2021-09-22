@@ -12,6 +12,7 @@
 ![](https://github.com/JakobEik/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/JakobEik/github-stats/blob/master/generated/languages.svg)
 <img src="https://github.com/JakobEik/github-stats/blob/master/generated/overview.svg"/>
+<img src="https://github.com/JakobEik/github-stats/blob/master/generated/languages.svg"/>
 
 </p>
 
