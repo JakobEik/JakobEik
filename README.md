@@ -1,5 +1,5 @@
 # <p align="center">Jakob Eikeland</p>
-### <p align="center">MSc Engineering and ICT at NTNU, 4rd year | Mechanical engineering</p>
+### <p align="center">MSc Engineering and ICT at NTNU, 4rd year | Mechanical engineering
 
 
 
@@ -9,3 +9,4 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JakobEik&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+</p>
