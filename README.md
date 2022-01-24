@@ -8,14 +8,8 @@
 <p align="center-left">- 🌱 I’m currently learning AI</p>
 <p align="center-left">- 📫 How to reach me: jakeik@hotmail.com</p>
 
-  
-<p align="center">  
-<img src="https://github.com/JakobEik/github-stats/blob/master/generated/overview.svg"/>
-<img src="https://github.com/JakobEik/github-stats/blob/master/generated/languages.svg"/>
-</p>
 
 <p align="center">  
 <img src="https://github-readme-stats.vercel.app/api?username=JakobEik&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
 
-<p align="center">The API obviously shows the wrong amount of lines changed due to some issues with the API, but will correct itself with time</p>
