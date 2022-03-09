@@ -4,8 +4,7 @@
 
 
 
-<p align="center-left">- 🔭 I’m currently working on an autonomous robot</p>
-<p align="center-left">- 🌱 I’m currently learning AI</p>
+
 <p align="center-left">- 📫 How to reach me: jakeik@hotmail.com</p>
 
 
