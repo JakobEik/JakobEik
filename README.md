@@ -5,10 +5,15 @@
 
 
 
-<p align="center-left">- 📫 How to reach me: jakeik@hotmail.com</p>
 
 
-<p align="center">  
+
+
+<a href="https://github.com/jakobeik/githubstats">
+
 <img src="https://github-readme-stats.vercel.app/api?username=JakobEik&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-</p>
+![](https://github.com/jakobeik/githubstats/blob/master/generated/languages.svg)
+
+</a>
+
 
