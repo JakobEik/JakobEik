@@ -13,12 +13,11 @@
 
 
 <p align="center">  
-<img src="https://github-readme-stats.vercel.app/api/?username=JakobEik&count_private=true&showicons=true&include_all_commits=true" />
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JakobEik&langs_count=10&theme=tokyonight)]()
+
 </p>
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=JakobEik&count_private=true&theme=tokyonight&showicons=true&include_all_commits=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JakobEik&langs_count=10&theme=tokyonight)]()
 
 
 
