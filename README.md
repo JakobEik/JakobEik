@@ -12,13 +12,6 @@
 </p>
 
 
-<a align="center" href="https://github.com/jakobeik/githubstats">
-
-
-![](https://github.com/jakobeik/githubstats/blob/master/generated/languages.svg)
-
-</a>
-
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=JakobEik&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JakobEik&langs_count=5&theme=tokyonight)]()
 
