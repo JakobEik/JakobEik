@@ -13,8 +13,7 @@
 
 
 <p align="center">  
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JakobEik&langs_count=10&theme=tokyonight)]()
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakobEik&langs_count=10&theme=tokyonight" />  
 </p>
 
 
